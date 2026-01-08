@@ -9,6 +9,7 @@
 - Analysis
 - Evaluation
 - Libraries
+- Tools
 
 # Business Problem
 Retail organizations struggle with inaccurate demand forecasting, leading to:
@@ -63,10 +64,17 @@ Model Performance:
 - R² Score: 0.91
 The model demonstrates strong predictive performance for retail sales forecasting.
 
-Libraries
+# Libraries
 - pandas
 - numpy
 - seaborn
 - matplotlib
 - scikit-learn
 - xgboost
+
+# Tools
+- Jupyter Notebook
+- Power BI
+- Git & GitHub
+- Git LFS
+- Microsoft Excel
